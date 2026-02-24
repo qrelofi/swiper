@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+python-dotenv
+playwright
+playwright-stealth
+instagrapi
+psutil
+pillow
+requests
+urllib3
+aiohttp
